@@ -1,2 +1,5 @@
+# Python dependencies for the Flask demo application
+# Installed inside the Docker container during build
+
 flask==3.0.3
 gunicorn==23.0.0

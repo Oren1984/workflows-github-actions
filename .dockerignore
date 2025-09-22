@@ -1,3 +1,6 @@
+# Files and folders ignored by Docker during build context
+# Helps reduce image size and avoid copying unnecessary files
+
 **/__pycache__/
 *.pyc
 *.pyo

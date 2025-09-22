@@ -1,3 +1,6 @@
+# Minimal Dockerfile for a Flask app with Gunicorn
+# Built for GitHub Actions CI/CD pipeline and Docker Hub push
+
 FROM python:3.12-slim
 
 ENV PYTHONDONTWRITEBYTECODE=1 \

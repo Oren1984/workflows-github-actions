@@ -1,3 +1,6 @@
+# Minimal Flask application for Docker & GitHub Actions demo
+# Returns a simple JSON message on the root path
+
 from flask import Flask
 app = Flask(__name__)
 
