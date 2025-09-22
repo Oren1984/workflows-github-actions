@@ -19,7 +19,7 @@ This project demonstrates a **minimal CI/CD pipeline** using **GitHub Actions** 
 
 ---
 
-## ⚙ Workflow Summary
+##  Workflow Summary
 The workflow (`.github/workflows/docker-build-push.yml`) is triggered on:
 - Every **push** to the `main` branch  
 - Manual dispatch (`workflow_dispatch`)  
